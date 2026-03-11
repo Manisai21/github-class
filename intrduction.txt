@@ -1,1 +1,2 @@
 Hey there! Git classes are started!
+Checking out with greetings
